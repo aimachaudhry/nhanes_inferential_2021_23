@@ -15,7 +15,8 @@ The following variables used in this project were:
 - Current Self-Reported Weight (WHD020)
 
 ## Analysis
-### Question 1:
+
+## Question 1:
 Is there an association between marital status and education level?
 
 **Variables**: DMDMARTZ (marital status) and DMDEDUC2 (education level)
@@ -37,7 +38,7 @@ Is there an association between marital status and education level?
 **Results & Interpretation**:
 - The test shows a statistically significant association (p < 0.05), meaning marital status and education level are related. Married individuals are more likely to have a Bachelors degree compared to those who are not married.
 
-### Question 2: 
+## Question 2: 
 Is there a difference in the mean sedentary behavior time between those who are married and those who are not married?
 
 **Variables**: DMDMARTZ (marital status) and PAD680 (sedentary behavior time)
@@ -54,7 +55,7 @@ Is there a difference in the mean sedentary behavior time between those who are 
  **Results & Interpretation**:
  - The p-value < 0.05 shows a significant difference between groups. Married and unmarried individuals have a significance differece in the amounts of time that they are sedentary.
 
-### Question 3: 
+## Question 3: 
 How do age and marital status affect systolic blood pressure?
 
  **Variables**: IDAGEYR (age), DMDMARTZ (marital status), and BPXOSY3 (systolic blood pressure).
@@ -70,7 +71,7 @@ How do age and marital status affect systolic blood pressure?
 - There is a moderate positive correlation between age and systolic BP (r = 0.51, p < 0.001). This means that blood pressure tends to increase as age increases.
 - There is no significant difference in systolic BP between married and unmarried individuals (p = 0.595).
 
-### Question 4: 
+## Question 4: 
 Is there a correlation between self-reported weight and minutes of sedentary behavior?
 
  **Variables**: WHD020 (self-reported weight) and PAD680 (sedentary behavior time)
@@ -85,7 +86,7 @@ Is there a correlation between self-reported weight and minutes of sedentary beh
  **Results & Interpretation**:
  - The relationship is statistically significant (p-value < 0.001) but there is a very weak positive correlation between weight and sedentary behavior (r = 0.105). This means that as weight increases, sedentary behavior slightly increases.
 
-### Question 5: Creative Analysis
+## Question 5: Creative Analysis
 Is there a difference in the mean sedentary behavior time between individuals with sufficient versus deficient Vitamin D status?
 
 **Variables**: LBDVD2LC (Vitamin D lab interpretation) and PAD680 (sedentary behavior time)
